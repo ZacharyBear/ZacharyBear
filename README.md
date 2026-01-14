@@ -5,7 +5,7 @@ I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
 
 ### Follow me
 - 📧: zq@zenkie.cn
-- 🗳️: [Codepen](https://codepen.io/zenkie)
+- 🗳️: [CodePen](https://codepen.io/zacharybear)
 
 ### Infomation
 [![Zachary Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharybear&show_icons=true&include_all_commits=false&theme=vue)](https://github.com/ZacharyBear)
