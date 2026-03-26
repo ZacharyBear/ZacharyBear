@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
-- 💼 I’m currently working on Changsha, China.
+- 💼 I’m currently working at Changsha, China.
 - ❤️ Music, Coding, Bodybuild.
 
 ### Follow me
