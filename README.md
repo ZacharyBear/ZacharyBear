@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
+I'm *Zachary Bear*(aka Zenkie Bear), A full-stack developer.
 - 💼 I’m currently working at Changsha, China.
 - ❤️ Music, Coding, Bodybuild.
 
@@ -19,8 +19,8 @@ I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
     <th colspan='100'>Items</th>
   </tr>
   <tr>
-    <th rowspan='2'>Back End</td>
-    <td>Java, C#, C, Swift🎯</td>
+    <th rowspan='3'>Back End</td>
+    <td>Java, C</td>
     <td>MySQL/MS-SQL/Oracle</td>
     <td>JSP, Thymeleaf</td>
     <td>SSM, SpringBoot, SpringCloud</td>
@@ -32,8 +32,13 @@ I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
     <td>Gorm</td>
     <td>Gin</td>
     <td>Wire</td>
-    <td>Swaggo</td>
-    <td colspan='3'>Keep study 🚀</td>
+    <td colspan='4'>Swaggo</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>FreeSQL</td>
+    <td>ASP.NET</td>
+    <td colspan='5'>Keep study 🚀</td>
   </tr>
   <tr>
     <th>Front End</td>
@@ -44,7 +49,7 @@ I'm *Zachary Bear*, aka Zenkie Bear. A full-stack developer.
     <td>Vue</td>
     <td>React & NextJS</td>
     <td>Cesium</td>
-    <td>Framer Motion🎯, GSAP🎯</td>
+    <td>Framer Motion, GSAP</td>
   </tr>
   <tr>
     <th>Collaboration</th>
